@@ -1,0 +1,20 @@
+##OpenGL GLIB
+
+Perspective 90
+LookAt 0 0 2  0 0 0  0 1 0
+
+
+Vertex   Ellipse.vert
+Fragment Ellipse.frag
+Program  Ellipse				\
+    uKa <0.1 0.1 0.5>               \
+    uKd <0.1 0.6 1.>                \
+    uKs <0.1 0.3 1.>                \
+    uShininess <1. 10. 25.>         \
+	uAd <.001 .1 .5>		\
+	uBd <.001 .1 .5>		\
+	uTol <0. 0. 1.>         \
+    uNoiseAmp <0. 0. 0.5.>   \
+    uNoiseFreq <0. 1. 10.>
+
+Sphere 1 50 50
