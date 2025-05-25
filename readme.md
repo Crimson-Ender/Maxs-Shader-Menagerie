@@ -1,4 +1,4 @@
-# "The Shaders Menagerie"
+# "Max's Shaders Menagerie"
 ## by Max Baker, crimsonender99@gmail.com
 
 A collection of assorted OpenGL (GLSL) shaders I wrote for my computer graphics shaders class. The shaders were executed in a software written by the professor called GLMan, as an homage to Pixar's RenderMan shader rending software. 
